@@ -51,7 +51,6 @@ _Open a PR to add your project to the list!_
 - [Compound Liquidator](https://github.com/conlan/compound-liquidator)
 - [Everest](https://github.com/metacartel/everest-web-app)
 - [SnowMo](https://github.com/NoahZinsmeister/snowflake-demo-frontend)
-- [NFT Scribe](https://github.com/conlan/nft-scribe)
 
 ## Local Development
 
