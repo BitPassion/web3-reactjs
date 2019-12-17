@@ -46,12 +46,6 @@ export class TorusConnector extends AbstractConnector {
     return this.torus.ethereum.send('eth_accounts').then((accounts: string[]): string => accounts[0])
   }
 
-  public async deactivate() {
-    await this.torus.cleanUp()
-  }
-
-  public async close() {
-    await this.torus.cleanUp()
-  }
+  public deactivate() {}
 }
 export default TorusConnector
