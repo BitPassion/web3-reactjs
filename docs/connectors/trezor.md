@@ -20,7 +20,7 @@ manifestAppUrl: string
 
 ## Example
 ```javascript
-import { TrezorConnector } from '@web3-react/trezor-connector'
+import { TrezorConnector } from '@web3-react/torus-connector'
 
 const trezor = new TrezorConnector({ chainId: 1, url: '...', manifestEmail: '...', manifestAppUrl: '...' })
 ```
